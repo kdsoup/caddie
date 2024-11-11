@@ -22,3 +22,5 @@ ARM: ```arch -arm64 zsh```
    1. to run the program type ```./src/cad```
    2. use ```./src/cad --help``` for instructions
 2. To run tests, type command ```make test``` in the caddie folder
+
+### 
